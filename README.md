@@ -5,6 +5,7 @@ This code will edit your sentence.
 * python 3
 * sys
 
-### To use
+# To use
 1. Enter your sentence.
+\n
 2.Follow the instructions.
