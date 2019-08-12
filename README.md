@@ -6,6 +6,4 @@ This code will edit your sentence.
 * sys
 
 # To use
-1. Enter your sentence.
-\n
-2.Follow the instructions.
+Just run the run.py
