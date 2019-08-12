@@ -6,5 +6,5 @@ This code will edit your sentence.
 * sys
 
 # To use
-*1. Enter your sentence.
-*2.Follow the instructions.
+1. Enter your sentence.
+2.Follow the instructions.
